@@ -9,5 +9,5 @@ My name is Keton York. I am a **Management and Marketing Major** at _Campbell Un
 ## My Interests
 In my free time a play a lot of video games with my friends from college. I enjoy games like **Call of Duty** and **Madden**. 
 ## Websites I Recommend
-	- [Google Drive](https://drive.google.com) - This website allows you to store your files on a Cloud Storage Service and access them from anywhere on any device
-	- [Squarespace](https://www.squarespace.com) - This is a website builder that is easy to use and creates very professional websites
+- [Google Drive](https://drive.google.com) - This website allows you to store your files on a Cloud Storage Service and access them from anywhere on any device
+- [Squarespace](https://www.squarespace.com) - This is a website builder that is easy to use and creates very professional websites
